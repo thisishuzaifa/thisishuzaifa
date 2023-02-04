@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Huzaifa</h1>
-<h3 align="center">A fullstack developer based in Vancouver, BC</h3>
+<h3 align="center">A full stack developer based in Vancouver, BC</h3>
 
 - 🔭 I’m currently working at **Northeastern Univeristy**
 
