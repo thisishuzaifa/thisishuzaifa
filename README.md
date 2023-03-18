@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **System Design, C# and React.**
 
-- 📫 How to reach me **huzaifa_khalid97@outlook.com**
+- 📫 How to reach me **huzaifa_khalid97@icloud.com**
 
 - ⚡ Fun fact **I also build mechanical keyboards and do IT Systems Consulting**
 
