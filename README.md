@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **huzaifa_khalid97@icloud.com**
 
-- ⚡ Fun fact **I also build mechanical keyboards and do IT Systems Consulting**
+- ⚡ Fun fact **I also build mechanical keyboards and do Software Systems Consulting on the side**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
