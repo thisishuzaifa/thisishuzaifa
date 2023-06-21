@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working at **Northeastern Univeristy**
 
-- 🌱 I’m currently learning **DevOps**
+- 🌱 I’m currently learning about **GoLang and Distributed Computing**
 
 - 👨‍💻 All of my projects are available at [www.github.com/thisishuzaifa](www.github.com/thisishuzaifa)
 
