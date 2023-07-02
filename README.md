@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **System Design, C# and React.**
 
-- ⚡ Fun fact **I also build mechanical keyboards and do Software Systems Consulting on the side**
+- ⚡ **I am also into building mechanical keyboards and do Software Systems Consulting on the side**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
